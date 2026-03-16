@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/barb-eds-blocks/:/",
+    "/content/barb-eds-blocks/configuration:/.helix/config.json",
+    "/content/barb-eds-blocks/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/barb-eds-blocks/"
   ]
 }
